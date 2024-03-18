@@ -45,5 +45,5 @@ Durasi kunjungan pada halaman produk ('Product Related Duration') memiliki penga
 Terdapat hubungan antara beberapa fitur website seperti 'Page Values', 'Exit Rates', dan 'Bounce Rates' dengan perilaku pembelian. Tingkat 'Page Values' yang tinggi umumnya berkorelasi dengan peningkatan konversi, sementara 'Exit Rates' dan 'Bounce Rates' yang tinggi cenderung menunjukkan tingkat konversi yang lebih rendah.
 
 Business Insight:
-Meningkatkan ProductRelated pada waktu menjelang SpecialDay dikarenakan jumlah pengunjung meningkat pada saat menjelang hari khusus tertentu, dengan meningkatkan ProductRelated kemungkinan kunjungan dapat menghasilkan revenue mengingat ProductRelated memiliki korelasi yang positif dengan revenue.  
-Meningkatkan rekomendasi product terkait pada week day saat jumlah kunjungan meningkat yang mana meningkatkan kemungkinan suatu kunjungan menghasilkan revenue
+1. Meningkatkan ProductRelated pada waktu menjelang SpecialDay dikarenakan jumlah pengunjung meningkat pada saat menjelang hari khusus tertentu, dengan meningkatkan ProductRelated kemungkinan kunjungan dapat menghasilkan revenue mengingat ProductRelated memiliki korelasi yang positif dengan revenue.  
+2. Meningkatkan rekomendasi product terkait pada week day saat jumlah kunjungan meningkat yang mana meningkatkan kemungkinan suatu kunjungan menghasilkan revenue
